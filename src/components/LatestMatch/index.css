@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.latest-bg-container {
+  background-color: #0f172a;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  width: 1110px;
+  border: 0px solid;
+  border-radius: 15px;
+  align-items: center;
+}
+.lat-main-heading {
+  font-weight: normal;
+}
+.date {
+  font-weight: normal;
+}
+.ans {
+  font-size: 15px;
+}
+.desc {
+  font-size: 18px;
+}
+.com-logo {
+  height: 250px;
+}
+.latest-cont {
+  width: 300px;
+}
+.lat-sub-cont {
+  text-align: right;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.card {
+  display: flex;
+  border: 2px solid #ffffff;
+  background-color: -50%;
+  border-radius: 15px;
+  width: 500px;
+  margin: 20px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+li {
+  display: inline-block;
+  list-style-type: none;
+}
+.car-img {
+  height: 150px;
+}
+.name {
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  color: #ffffff;
+}

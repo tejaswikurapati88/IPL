@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.rec-bg-container {
+  background-color: #0f172a;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 0px solid;
+  border-radius: 15px;
+  margin: 20px;
+  width: 300px;
+  height: 500px;
+}
+li {
+  display: inline-block;
+  list-style-type: none;
+}
+.rec-img {
+  height: 200px;
+  width: 150px;
+}
+.rec-head {
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center;
+}
+.rec-des {
+  font-size: 15px;
+  color: #ffffff;
+  text-align: center;
+}
+.greenColo {
+  font-size: 25px;
+  color: red;
+  text-align: center;
+}
+.RedCo {
+  font-size: 25px;
+  color: green;
+  text-align: center;
+}
